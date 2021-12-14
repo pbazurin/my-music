@@ -1,0 +1,19 @@
+.player {
+  width: 75%;
+  height: 100%;
+  float: left;
+}
+
+.player_header {
+  height: 10%;
+  width: 100%;
+  color: #ffffff;
+  font-size: 3vh;
+  line-height: 5vh;
+}
+
+.player_content {
+  height: 90%;
+  width: 100%;
+  border: none;
+}

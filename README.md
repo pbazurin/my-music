@@ -1,1 +1,3 @@
-# Just a place for my clips collection
+# About
+
+My clips collection [Open site](https://pbazurin.github.io/my-music/).

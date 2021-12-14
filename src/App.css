@@ -1,0 +1,25 @@
+.logo {
+  margin-left: 5%;
+  max-height: 100%;
+  max-width: 100%;
+}
+
+.logo_text {
+  color: #ffffff;
+  font-size: 5vh;
+  margin: 1vw;
+}
+
+.mainContainer {
+  height: 100%;
+  width: 100%;
+}
+
+.mainContainer_box {
+  position: absolute;
+  top: 15%;
+  left: 5%;
+
+  width: 90%;
+  height: 65%;
+}

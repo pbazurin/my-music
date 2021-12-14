@@ -1,0 +1,94 @@
+.explorer {
+  width: 25%;
+  height: 100%;
+  float: left;
+}
+
+.explorer_toolbar {
+  height: 10%;
+  width: 100%;
+  position: relative;
+}
+
+.explorer_toolbar_currPath {
+  position: absolute;
+  bottom: 25px;
+  width: 100%;
+  color: #7a7a7a;
+  font-size: 1.6vh;
+}
+
+.explorer_toolbar_search {
+  position: absolute;
+  bottom: 20px;
+  width: 100%;
+  text-align: right;
+}
+
+.explorer_toolbar_search_text {
+  height: 18px;
+  width: 20%;
+  background: #b8b8b8;
+  transition: all 0.3s ease;
+}
+
+.explorer_toolbar_search_text.explorer_toolbar_search_text--active {
+  width: calc(100% - 40px);
+  background: #ffffff;
+}
+
+.explorer_toolbar_search_icon {
+  width: 32px;
+  height: 32px;
+  vertical-align: middle;
+  background-image: url("search.png");
+  background-size: contain;
+}
+
+.explorer_content {
+  height: 90%;
+  max-height: 90%;
+  width: 100%;
+  /*background: #222;*/
+  color: #b8b8b8;
+  font-size: 16px;
+  overflow: auto;
+
+  -webkit-touch-callout: none;
+  -webkit-user-select: none;
+  -khtml-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  user-select: none;
+}
+
+.explorer_content_item {
+  margin-left: 5px;
+  cursor: pointer;
+}
+.explorer_content_item:hover {
+  background: #525252;
+}
+.explorer_content_item.explorer_content_item--active {
+  background: #3a3a3a;
+}
+
+.explorer_content_item_text {
+  vertical-align: middle;
+}
+
+.explorer_content_item_icon {
+  width: 32px;
+  height: 32px;
+  vertical-align: middle;
+}
+
+.folderIcon {
+  background-image: url("folder.png");
+  background-size: contain;
+}
+
+.musicItemIcon {
+  background-image: url("music-item.png");
+  background-size: contain;
+}

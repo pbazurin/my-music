@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/my-music/static/css/main.afd64f48.chunk.css",
+    "main.js": "/my-music/static/js/main.be7c94bf.chunk.js",
+    "main.js.map": "/my-music/static/js/main.be7c94bf.chunk.js.map",
+    "runtime-main.js": "/my-music/static/js/runtime-main.5695152b.js",
+    "runtime-main.js.map": "/my-music/static/js/runtime-main.5695152b.js.map",
+    "static/js/2.f7d35640.chunk.js": "/my-music/static/js/2.f7d35640.chunk.js",
+    "static/js/2.f7d35640.chunk.js.map": "/my-music/static/js/2.f7d35640.chunk.js.map",
+    "static/js/3.1d93bec9.chunk.js": "/my-music/static/js/3.1d93bec9.chunk.js",
+    "static/js/3.1d93bec9.chunk.js.map": "/my-music/static/js/3.1d93bec9.chunk.js.map",
+    "index.html": "/my-music/index.html",
+    "static/css/main.afd64f48.chunk.css.map": "/my-music/static/css/main.afd64f48.chunk.css.map",
+    "static/js/2.f7d35640.chunk.js.LICENSE.txt": "/my-music/static/js/2.f7d35640.chunk.js.LICENSE.txt",
+    "static/media/logo.795a6112.png": "/my-music/static/media/logo.795a6112.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5695152b.js",
+    "static/js/2.f7d35640.chunk.js",
+    "static/css/main.afd64f48.chunk.css",
+    "static/js/main.be7c94bf.chunk.js"
+  ]
+}
